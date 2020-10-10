@@ -1,11 +1,10 @@
 # Microeconomics
 大二必修 個體經濟學
 
-FB Messanger：Bigflower Francis
+[聯絡老師，請用FB Messnager](https://www.facebook.com/bigflowertien)
 
-Email: BigflowerFrancis@gmail.com
 
-[更新講義下載](https://is.gd/seB2Ik)
+[上課講義下載](https://is.gd/seB2Ik)
 
 
 注意事項公告：
