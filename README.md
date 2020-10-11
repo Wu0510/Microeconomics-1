@@ -24,9 +24,9 @@
 
 第10 週 期中考 (中英文選擇題各8題，計算題4題、挑戰案例2題）
 
-[**109-1講義下載**](https://is.gd/seB2Ik)
+[**109-1課程講義下載**](https://is.gd/seB2Ik)
 
-[**109-1課程公告**](https://colab.research.google.com/drive/1BZmPcgHwvRWywtOYHMP0aezC3vUQ4WJu)
+[**109-1課程進度公告**](https://colab.research.google.com/drive/1BZmPcgHwvRWywtOYHMP0aezC3vUQ4WJu)
 
 
 ～有事請聯絡BigflowerFranics@gmail.com信箱，有興趣歡迎加入[FB社團](https://www.facebook.com/groups/312193870007113/)。
