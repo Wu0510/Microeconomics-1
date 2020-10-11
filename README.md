@@ -1,6 +1,6 @@
-# 109學年度個體經濟
+# Microeocnomics個體經濟
 
-[上課講義下載](https://is.gd/seB2Ik)
+[109-1上課講義下載](https://is.gd/seB2Ik)
 
 [109-1課程進度與作業公告](https://colab.research.google.com/drive/1BZmPcgHwvRWywtOYHMP0aezC3vUQ4WJu)
 
