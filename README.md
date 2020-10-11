@@ -1,5 +1,7 @@
 # Microeocnomics個體經濟
 
+109-1期中考試內容進度
+
 第 1 週 Syllabus
 
 第 2 週 Introduction
@@ -16,13 +18,15 @@
 
 第 8 週 Applying Consumer Theory - Demand Curve
 
-第 9 週 Applying Consumer Theory (Per-Hour Versus Lump-Sum Childcare Subsidies)與複習、上課前繳交8次作業（逾時不候0分計算）
+第 9 週 Applying Consumer Theory (Per-Hour Versus Lump-Sum Childcare Subsidies)與考前複習
+
+上課前要繳交8次作業，逾時不候0分計算
 
 第10 週 期中考 (中英文選擇題各8題，計算題4題、挑戰案例2題）
 
-[109-1上課講義下載](https://is.gd/seB2Ik)
+[**109-1上課講義下載**](https://is.gd/seB2Ik)
 
-[109-1課程進度與作業公告](https://colab.research.google.com/drive/1BZmPcgHwvRWywtOYHMP0aezC3vUQ4WJu)
+[**109-1課程進度與作業公告**](https://colab.research.google.com/drive/1BZmPcgHwvRWywtOYHMP0aezC3vUQ4WJu)
 
 
 ～有事請聯絡BigflowerFranics@gmail.com信箱，有興趣歡迎加入[FB社團](https://www.facebook.com/groups/312193870007113/)。
