@@ -6,4 +6,4 @@
 [109-1課程進度與作業公告](https://colab.research.google.com/drive/1BZmPcgHwvRWywtOYHMP0aezC3vUQ4WJu)
 
 
-～聯絡電郵為BigflowerFranics@gmail.com，有興趣也歡迎加入課程的[FB社團](https://www.facebook.com/groups/312193870007113/)。
+～有事聯絡，請寄電郵信箱BigflowerFranics@gmail.com，有興趣歡迎加入課程[FB社團](https://www.facebook.com/groups/312193870007113/)。
