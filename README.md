@@ -1,9 +1,9 @@
 # Microeconomics
 109學年度個體經濟學
 
-Email: BigflowerFranics@gmail.com
-
 FB社團：[Tien-個體經濟學](https://www.facebook.com/groups/312193870007113/)
+
+Email: BigflowerFranics@gmail.com
 
 
 [上課講義下載](https://is.gd/seB2Ik)
