@@ -1,4 +1,4 @@
-# 109學年度個體經濟學 (Microeconomics)
+# 109學年度個體經濟
 
 [上課講義下載](https://is.gd/seB2Ik)
 
