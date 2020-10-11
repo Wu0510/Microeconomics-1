@@ -1,6 +1,6 @@
 # Microeocnomics個體經濟
 
-～期中考試範圍
+**期中考試範圍**
 
 第 1 週 Syllabus
 
@@ -20,7 +20,7 @@
 
 第 9 週 Applying Consumer Theory (Per-Hour Versus Lump-Sum Childcare Subsidies)與考前複習
 
-上課前要繳交8次作業，逾時不候0分計算
+注意：上課前要繳交8次作業，逾時不候0分計算
 
 第10 週 期中考 (中英文選擇題各8題，計算題4題、挑戰案例2題）
 
