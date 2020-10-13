@@ -20,8 +20,6 @@
 
 第 9 週  考前複習
 
-Consumer Choice (Why Americans Buy More Ebooks Than Do Germans)
-
 Applying Consumer Theory (Per-Hour Versus Lump-Sum Childcare Subsidies)
 
 注意：上課前要繳交8次作業，逾時不候0分計算
