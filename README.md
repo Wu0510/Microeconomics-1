@@ -8,8 +8,10 @@
 
 [**課程綱要**](https://drive.google.com/file/d/1FKAVKcUgHkDhmc3VEhlUaQ9IljPULN5e/view?usp=sharing)
 
+～有事請聯絡BigflowerFranics@gmail.com信箱，有興趣歡迎加入[FB社團](https://www.facebook.com/groups/312193870007113/)。
 
-**109-1期中考試範圍**
+
+**109-1期中考試範圍進度**
 
 第 1 週 Syllabus
 
@@ -34,6 +36,3 @@ Applying Consumer Theory (Per-Hour Versus Lump-Sum Childcare Subsidies)
 注意：上課前要繳交8次作業，逾時不候0分計算
 
 第10 週 期中考 (中英文選擇題各8題，計算題4題、挑戰案例2題）
-
-～有事請聯絡BigflowerFranics@gmail.com信箱，有興趣歡迎加入[FB社團](https://www.facebook.com/groups/312193870007113/)。
-
