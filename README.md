@@ -11,7 +11,7 @@
 ～有事請聯絡BigflowerFranics@gmail.com信箱，有興趣歡迎加入[FB社團](https://www.facebook.com/groups/312193870007113/)。
 
 
-**109-1期中考試範圍進度**
+**109-1期中考試範圍進度(修正）**
 
 第 1 週 Syllabus
 
