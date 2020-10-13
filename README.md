@@ -1,6 +1,15 @@
 # Microeocnomics個體經濟
 
-**期中考試範圍**
+[**課程網頁(Github)**](https://github.com/HungHuaTien/Microeconomics)
+
+[**課程公告(Google Colab)**](https://colab.research.google.com/drive/1BZmPcgHwvRWywtOYHMP0aezC3vUQ4WJu)
+
+[**講義下載(Google Drive)**](https://is.gd/seB2Ik)
+
+[**課程綱要**](https://drive.google.com/file/d/1FKAVKcUgHkDhmc3VEhlUaQ9IljPULN5e/view?usp=sharing)
+
+
+**109-1期中考試範圍**
 
 第 1 週 Syllabus
 
@@ -26,9 +35,5 @@ Applying Consumer Theory (Per-Hour Versus Lump-Sum Childcare Subsidies)
 
 第10 週 期中考 (中英文選擇題各8題，計算題4題、挑戰案例2題）
 
-[**109-1課程講義下載**](https://is.gd/seB2Ik)
-
-[**109-1課程進度公告**](https://colab.research.google.com/drive/1BZmPcgHwvRWywtOYHMP0aezC3vUQ4WJu)
-
-
 ～有事請聯絡BigflowerFranics@gmail.com信箱，有興趣歡迎加入[FB社團](https://www.facebook.com/groups/312193870007113/)。
+
