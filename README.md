@@ -50,7 +50,7 @@
 **Stage 2:建立課程專案（Repository）**
 
 - 每個課程每個學期都請建立一個新的課程專案，整個學期都使用這個程式庫繳交作業。
-- 在電腦右上角有一個加號「＋」，請按加號，然後按「New Repository」，進入建立新專案畫面(Create a new repository)。
+- 在電腦右上角黑色的框框中有一個加號「＋」，請按加號，然後按「New Repository」，進入建立新專案畫面(Create a new repository)。
 - 在建立新專案畫面，有四個地方要注意：(1)Repository Name: 請填課程的英文名稱，如Microeconomics1、Microeocnomics2，(2)Description：請填入課程的中文名稱，如個體經濟學。(3)Public：預設為Public，表示不用付費。(4)Add a README file：請打勾勾。
 - 最後，點選最下面綠色的「Creat Repository」，即可完成課程專案的建立。
 
