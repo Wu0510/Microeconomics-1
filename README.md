@@ -7,7 +7,7 @@
 [**講義下載**](https://is.gd/seB2Ik)：建議同學參考上課講義，自己寫筆記。
 
 
-～有事請聯絡BigflowerFranics@gmail.com信箱，有興趣歡迎加入[FB社團](https://www.facebook.com/groups/312193870007113/)。
+～有事請聯絡BigflowerFranics@gmail.com信箱，有興趣歡迎自行加入或退出[FB社團](https://www.facebook.com/groups/312193870007113/)。
 
 ## 重要事項說明
 
@@ -38,7 +38,33 @@
 - 考試題目為中文選擇題8題、英文選擇題8題，每題 2.5 分。計算應用與挑戰案例6題，每題 10 分；原則上每個挑戰案例一題，其他的則為計算應用題。
 - 請勿作弊。考試時，桌上僅留必要文具，其他物品（特別是手機）一律放在包包中，並將包包置於前面講台。
 
-### 2. 作業繳交說明(Homework)
+### 2. Github使用說明(Homework)
+
+使用Github繳交作業，分成三個階段：
+
+**Stage 1: 註冊(Sign up)與登錄(Sign in)**
+
+- 同學先在Github平台註冊，之後全部都是登陸。
+- Github 註冊畫面時常更新，但重點只有一個：給平台Username、Email與Password這三個資訊，並在電郵收信確認註冊後，登陸平台即可。
+
+**Stage 2:建立課程專案（Repository）**
+
+- 每個課程每個學期都請建立一個新的課程專案，整個學期都使用這個程式庫繳交作業。
+- 在電腦右上角有一個加號「＋」，請按加號，然後按「New Repository」，進入建立新專案畫面(Create a new repository)。
+- 在建立新專案畫面，有四個地方要注意：(1)Repository Name: 請填課程的英文名稱，如Microeconomics1、Microeocnomics2，(2)Description：請填入課程的中文名稱，如個體經濟學。(3)Public：預設為Public，表示不用付費。(4)Add a README file：請打勾勾。
+- 最後，點選最下面綠色的「Creat Repository」，即可完成課程專案的建立。
+
+～修改專案名稱：請點選進入已建立的專案頁面後，在上面第二個選項列（從Code/Issues/.../Settings)中，按最後一個「Settings」；然後在Settings頁面的第一個項目Repository name，重新鍵入專案名稱，最後按「Rename」即可。
+～刪除整個專案：請點選進入已建立的專案頁面後，在上面第二個選項列（從Code/Issues/.../Settings)中，按最後一個「Settings」；然後在Settings頁面的最後一項目中，點選進入Delete this Repository頁面，然後依照指示，鍵入要刪除的程式庫名稱。
+
+**Stage 3: 上傳作業檔案**
+
+- 進入課程專案頁面，在上面第三個選項列（從Master/.../Add File/Code)中，按右邊倒數第二個「Add File」選項，再按「Upload Files」，就會進入上傳檔案畫面。
+- 請在電腦桌面準備好上傳檔案（或子目錄），用滑鼠並按住右鍵將整個檔案（或子目錄）拉到網頁的中間，放開滑鼠右鍵，電腦會通知平台要上傳檔案。
+- 請在上傳檔案畫面，繼續填入檔案資訊，然後在頁面的最下方按綠色的「Creat Changes」，最後靜待平台完成上傳存檔即可。
+
+～刪除檔案：請進入課程專案後，點選你要刪除的檔案，在顯示檔案內文的上面右邊，可以看到選項列（從<>/.../垃圾桶圖樣樣)中，選擇最後一個垃圾桶圖樣，就可以進入刪除頁面，請直接用滑鼠拉到畫面的最下方，按綠色的「Creat Changes」按鈕即可。
+
 
 ### 3.109-1期中考試範圍進度(Revised）
 
