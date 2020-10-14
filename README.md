@@ -2,7 +2,7 @@
 
 [**課程網頁**](https://github.com/HungHuaTien/Microeconomics)
 
-[**課程公告**](https://colab.research.google.com/drive/1BZmPcgHwvRWywtOYHMP0aezC3vUQ4WJu)：每週分成上課內容（授課進度與課後作業）、課程錄影（Youtube連結）與速記事項（問題說明）三部分更新。
+[**課程公告**](https://colab.research.google.com/drive/1BZmPcgHwvRWywtOYHMP0aezC3vUQ4WJu)：每週分成上課內容（進度與作業）、課程錄影（Youtube連結）與速記事項（問題說明）三部分更新。
 
 [**講義下載**](https://is.gd/seB2Ik)：建議同學參考上課講義自己寫筆記，講義會不定期更新。
 
