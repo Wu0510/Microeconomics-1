@@ -42,12 +42,12 @@
 
 使用Github繳交作業，分成三個階段：註冊與登陸、建立課程專案、上傳作業檔案。
 
-**Stage 1: 註冊(Sign up)與登錄(Sign in)**
+**Stage 1: 註冊(Sign up)與登錄(Sign in)** [Github註冊](https://youtu.be/OaoTEVwooUA)
 
 - 請同學先在Github平台註冊，之後全部都是登陸。
 - Github 註冊畫面時常更新，但重點只有一個：給平台Username、Email與Password這三個資訊，並在電郵收信確認註冊後，登陸平台即可使用。
 
-**Stage 2:建立課程專案（Repository）**
+**Stage 2:建立課程專案（Repository）** [Github建立專案](https://youtu.be/udViinYUtr0)
 
 - 每個課程每個學期都請建立一個新的課程專案，整個學期都使用這個程式庫繳交作業。
 - 在電腦右上角黑色的框框中有一個加號「＋」，請按加號，然後按「New Repository」，進入建立新專案畫面(Create a new repository)。
@@ -58,7 +58,7 @@
 
 ～刪除整個專案：請點選進入已建立的專案頁面後，在上面第二個選項列（從Code/Issues/.../Settings)中，按最後一個「Settings」；然後在Settings頁面的最後一項目中，點選進入Delete this Repository頁面，然後依照指示，鍵入要刪除的程式庫名稱。
 
-**Stage 3: 上傳作業檔案**
+**Stage 3: 上傳作業檔案** [Github上傳檔案](https://youtu.be/dWnWuUU6MSE)
 
 - 進入課程專案頁面，在上面第三個選項列（從Master/.../Add File/Code)中，按右邊倒數第二個「Add File」選項，再按「Upload Files」，就會進入上傳檔案畫面。
 - 請在電腦桌面準備好上傳檔案（或子目錄），用滑鼠並按住右鍵將整個檔案（或子目錄）拉到網頁的中間，放開滑鼠右鍵，電腦會通知平台要上傳檔案。
