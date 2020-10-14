@@ -44,8 +44,8 @@
 
 **Stage 1: 註冊(Sign up)與登錄(Sign in)**
 
-- 同學先在Github平台註冊，之後全部都是登陸。
-- Github 註冊畫面時常更新，但重點只有一個：給平台Username、Email與Password這三個資訊，並在電郵收信確認註冊後，登陸平台即可。
+- 請同學先在Github平台註冊，之後全部都是登陸。
+- Github 註冊畫面時常更新，但重點只有一個：給平台Username、Email與Password這三個資訊，並在電郵收信確認註冊後，登陸平台即可使用。
 
 **Stage 2:建立課程專案（Repository）**
 
