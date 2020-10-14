@@ -40,7 +40,7 @@
 
 ### 3. Github使用說明(Homework)
 
-使用Github繳交作業，分成三個階段：
+使用Github繳交作業，分成三個階段：註冊與登陸、建立課程專案、上傳作業檔案。
 
 **Stage 1: 註冊(Sign up)與登錄(Sign in)**
 
