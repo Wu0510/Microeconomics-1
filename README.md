@@ -55,6 +55,7 @@
 - 最後，點選最下面綠色的「Creat Repository」，即可完成課程專案的建立。
 
 ～修改專案名稱：請點選進入已建立的專案頁面後，在上面第二個選項列（從Code/Issues/.../Settings)中，按最後一個「Settings」；然後在Settings頁面的第一個項目Repository name，重新鍵入專案名稱，最後按「Rename」即可。
+
 ～刪除整個專案：請點選進入已建立的專案頁面後，在上面第二個選項列（從Code/Issues/.../Settings)中，按最後一個「Settings」；然後在Settings頁面的最後一項目中，點選進入Delete this Repository頁面，然後依照指示，鍵入要刪除的程式庫名稱。
 
 **Stage 3: 上傳作業檔案**
