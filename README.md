@@ -1,6 +1,6 @@
 # Microeocnomics個體經濟
 
-[**課程網頁**](https://github.com/HungHuaTien/Microeconomics)：田弘華老師的個體經濟學課程網頁
+[**課程網頁**](https://github.com/HungHuaTien/Microeconomics)：田弘華老師的個體經濟學網頁
 
 [**課程公告**](https://colab.research.google.com/drive/1BZmPcgHwvRWywtOYHMP0aezC3vUQ4WJu)：每週分成上課內容（進度與作業）、課程錄影（Youtube連結）與速記事項（問題說明）三部分更新。
 
