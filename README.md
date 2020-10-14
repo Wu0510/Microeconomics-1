@@ -15,7 +15,7 @@
 
 上課時會用電腦螢幕錄影。因故不能來上課的同學，請先觀看錄影影片學習，看完影片後，有任何不會的地方，非常歡迎發問。
 
-上課鈴響後，準時開始上課。先說明課程進度並用英文課本（pdf檔案）複習上週教授內容，然後開始點名，點名中間進到教室的都算出席；點完名之後，檢討上週習題。對於上週教授內容與作業習題，有任何不懂的地方，這時候請儘量發問並完全弄懂，也可以另外安排時間個別指導。之後教授本週新的課程進度。原則上，上新進度內容時，以提綱挈領為原則，讓同學知道學習的關鍵（教授葡萄梗，Survey and Question）。同學回家之後，請複習教授內容，想辦法弄懂所有細節，然後做作業（連結葡萄梗與葡萄，Read）。下週上課複習時，請同學針對上週授課內容與習題細節發問（弄懂葡萄，Recite)。最後，考前進行複習，準備考試(Review，SQ3R)。
+上課鈴響後，準時開始上課。先以課程網頁說明今天授課的進度與內容，並且用黑板和英文課本（pdf檔案）複習上週重點，然後點名。點名中間進到教室的都算出席，點名完畢之後，開始檢討習題答案。對於上週教授的內容與作業，有任何不懂的地方，這時候請儘量發問並完全弄懂，也可以另外安排時間個別指導。之後教授本週新的課程進度。原則上，上新的進度內容時，以提綱挈領為原則，讓同學瞭解學習的關鍵（教授葡萄梗，Survey and Question）。同學回家之後，請複習教授內容，想辦法弄懂細節，之後做作業（連結葡萄梗與葡萄，Read）。下週上課複習時，請同學針對上週授課內容與習題細節發問（弄懂葡萄，Recite)。最後，進行考前複習，準備考試(Review，SQ3R)。
 
 ### 2. 成績評定（Grading)
 
@@ -34,34 +34,24 @@
 
 **(3)考試成績 60 分**
 
-- 期中與期末考試各占學期成績 30 分。為鼓勵同學閱讀原文書，考試可以攜帶英文教科書進場。
-- 考試題目為中文選擇題8題、英文選擇題8題，每題 2.5 分。計算應用與挑戰案例6題，每題 10 分；原則上計算應用3題、挑戰案例3題，上過的挑戰案例都會考，。
+- 期中與期末考試各占學期成績 30 分。為鼓勵同學閱讀原文書，考試時可以攜帶英文教科書進場。
+- 考試題目為中文選擇題8題、英文選擇題8題，每題 2.5 分。計算應用與挑戰案例6題，每題 10 分；原則上每個挑戰案例一題，其他的則為計算應用題。
 - 請勿作弊。考試時，桌上僅留必要文具，其他物品（特別是手機）一律放在包包中，並將包包置於前面講台。
 
 ### 2. 作業繳交說明(Homework)
 
 ### 3.109-1期中考試範圍進度(修正）
 
-第 1 週 Syllabus
+- 第 1 週 Syllabus
+- 第 2 週 Introduction
+- 第 3 週 Consumer Choice - Utility Function
+- 第 4 週 Consumer Choice - Budget Constraints
+- 第 5 週 Consumer Choice - Consumer Equilibrium
+- 第 6 週 Consumer Choice (Why Americans Buy More Ebooks Than Do Germans)
+- 第 7 週 Applying Consumer Theory - Comparative Statics
+- 第 8 週 Applying Consumer Theory - Demand Curve
+- 第 9 週 Applying Consumer Theory (Per-Hour Versus Lump-Sum Childcare Subsidies)
 
-第 2 週 Introduction
+注意：考前複習 + 截止繳交作業（上課前要繳交8次作業，逾時不候0分計算）
 
-第 3 週 Consumer Choice - Utility Function
-
-第 4 週 Consumer Choice - Budget Constraints
-
-第 5 週 Consumer Choice - Consumer Equilibrium
-
-第 6 週 Consumer Choice (Why Americans Buy More Ebooks Than Do Germans)
-
-第 7 週 Applying Consumer Theory - Comparative Statics
-
-第 8 週 Applying Consumer Theory - Demand Curve
-
-第 9 週  考前複習
-
-Applying Consumer Theory (Per-Hour Versus Lump-Sum Childcare Subsidies)
-
-注意：上課前要繳交8次作業，逾時不候0分計算
-
-第10 週 期中考 (中英文選擇題各8題，計算題4題、挑戰案例2題）
+- 第10 週 期中考 (中英文選擇題各8題，計算題4題、挑戰案例2題）
