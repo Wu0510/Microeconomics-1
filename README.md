@@ -7,7 +7,7 @@
 [**講義下載**](https://is.gd/seB2Ik)：建議同學參考上課講義，自己寫筆記。
 
 
-～有事請聯絡bigflowerfranics@gmail.com信箱，問題討論請自行加入或退出[FB社團](https://www.facebook.com/groups/312193870007113/)。
+～有事請聯絡bigflowerfrancis@gmail.com信箱，問題討論請自行加入或退出[FB社團](https://www.facebook.com/groups/312193870007113/)。
 
 ## 重要事項說明
 
